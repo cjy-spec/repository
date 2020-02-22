@@ -5,7 +5,3 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-修改再windows上
-再次更改
-11111
-2222
